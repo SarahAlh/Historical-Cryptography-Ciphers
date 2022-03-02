@@ -68,7 +68,7 @@ menu_actions = {
     '2': substitution,
     '3': vigeneare,
     '4': hill2X2,
-    '5': substitution,
+    #'5': Playfair,
     '9': back,
     '0': exit_,
 }
